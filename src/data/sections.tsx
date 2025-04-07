@@ -41,7 +41,7 @@ const projects = [
       { name: "JavaScript", color: "yellow", className: "bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200" },
       { name: "FUN AND LOVE", color: "green", className: "bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200" },
     ],
-    link: "https://github.com/phillip-che/Data-Dashboard",
+    link: "https://github.com/Anest2009/Asking-Your-Partner",
     previewImage: askYourPartnerImage
   }
 ];
