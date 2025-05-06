@@ -20,7 +20,7 @@ const projects = [
     previewImage: artImage
   },
   {
-    title: "Nano Chat <br/(WORKING ON IT)",
+    title: "Nano Chat (WORKING ON IT)",
     description: "A private E2EE chat app that gives the user full privacy and security.",
     tech: [
       { name: "React", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
