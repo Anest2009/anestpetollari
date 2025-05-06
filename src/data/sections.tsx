@@ -6,15 +6,17 @@ import askYourPartnerImage from'../assets/images/partner.png';
 
 const projects = [
   {
-    title: "Shadows",
-    description: "The art of being free and the love for shadows never ends",
+    title: "ArtCoffe",
+    description: "Order Tracking System with Admin Dashboard, Staff Dashboard and Client side",
     tech: [
       { name: "TypeScript", color: "blue", className: "bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200" },
-      { name: "CSS", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
-      { name: "JavaScript", color: "yellow", className: "bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200" },
-      { name: "Vercel", color: "green", className: "bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200" },
+      { name: "React", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
+      { name: "Context API", color: "yellow", className: "bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200" },
+      { name: " Supabase", color: "green", className: "bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200" },
+      { name: "Custom CSS", color: "blue", className: "bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200" },
+      { name: "Lucide React", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
     ],
-    link: "https://github.com/Anest2009/Shadows",
+    link: "https://github.com/Anest2009/artcoffejunction",
     previewImage: shadowsImage
   },
   {
@@ -33,16 +35,16 @@ const projects = [
     previewImage: nanoChatImage
   },
   {
-    title: "AskYourPartner",
-    description: "NO ONE CAN MAKE THEM CLICK NO",
+    title: "Shadows",
+    description: "The art of being free and the love for shadows never ends",
     tech: [
-      { name: "HTML", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
-      { name: "CSS", color: "emerald", className: "bg-emerald-100 text-emerald-800 dark:bg-emerald-900 dark:text-emerald-200" },
-      { name: "JavaScript", color: "yellow", className: "bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200" },
+      { name: "React", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
+      { name: "TypeScript", color: "emerald", className: "bg-emerald-100 text-emerald-800 dark:bg-emerald-900 dark:text-emerald-200" },
+      { name: "Vercel", color: "yellow", className: "bg-yellow-100 text-yellow-800 dark:bg-yellow-900 dark:text-yellow-200" },
       { name: "FUN AND LOVE", color: "green", className: "bg-green-100 text-green-800 dark:bg-green-900 dark:text-green-200" },
     ],
-    link: "https://github.com/Anest2009/Asking-Your-Partner",
-    previewImage: askYourPartnerImage
+    link: "https://github.com/Anest2009/Shadows",
+    previewImage: shadowsImage
   }
 ];
 
