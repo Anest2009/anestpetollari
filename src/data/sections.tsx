@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 import { Project } from '../components/Project';
 import shadowsImage from '../assets/images/shadows.png';
 import nanoChatImage from '../assets/images/secret.png';
-import askYourPartnerImage from'../assets/images/partner.png';
+import artImage from'../assets/images/fotoja.png';
 
 const projects = [
   {
@@ -17,7 +17,7 @@ const projects = [
       { name: "Lucide React", color: "cyan", className: "bg-cyan-100 text-cyan-800 dark:bg-cyan-900 dark:text-cyan-200" },
     ],
     link: "https://github.com/Anest2009/artcoffejunction",
-    previewImage: shadowsImage
+    previewImage: artImage
   },
   {
     title: "Nano Chat <br/(WORKING ON IT)",
